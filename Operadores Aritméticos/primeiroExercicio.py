@@ -7,6 +7,6 @@ d = n1 / n2
 di = n1 // n2
 exp = n1 ** n2
 
-print('A soma é {} e a divisão é {}'.format(sum,multi,d))
-print('Divisão inteira {} e potência {}'.formt(di, exp))
+print('A soma é {}, a multiplicação é {}, e a divisão é {}'.format(sum,multi,d))
+print('Divisão inteira {} e potência {}'.format(di, exp))
 

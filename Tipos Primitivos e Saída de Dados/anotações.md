@@ -16,7 +16,7 @@
     
     </aside>
     
-- srt (valor de carácter ou strings)
+- str (valor de carácter ou strings)
     
     ‘Olá’ ,  ‘7.5’, ‘ ‘;
     
