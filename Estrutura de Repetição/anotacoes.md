@@ -34,3 +34,20 @@
     4. Faça um programa que leia um número qualquer e mostre o seu fatorial.
     5. Refaça o desafio, lendo o primeiro termo e a razão de uma progressão aritmetica, mostrando os 10 primeiros termos da progressão usando  a estrutura while.
     6. Escreva um número que lei um número n inteiro qualquer e mostre na tela os n primeiros elementos de uma sequência Fibonacci.
+
+# Interrompendo repetições While
+
+- Desafio:
+    1. Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles ( desconsiderando o flag).
+    2.  Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.
+    3. Faça um programa que jogue par ou impar com o computador. O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+    4. Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
+        1. Quantas pessoas tem mais de 18 anos.
+        2. Quantos Homens foram cadastrados.
+        3. Quantas pessoa tem menos de 20 anos.
+    5. Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre:
+        1. Qual é o total gasto na compra.
+        2. Quantos produtos custam mais de R$1000,00.
+        3. Qual é o nome do produto mais barato.
+    6. Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor sarão entregues;
+        - obs: Considere que o caixa possui cédulas de R$50, R$20, R$10, e R$ 1;
